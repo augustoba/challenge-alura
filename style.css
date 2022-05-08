@@ -29,7 +29,7 @@ body {
 .texto-izquierda{
     float: left;
     height: auto;
-    width: 70%;
+    width: 60%;
     border-radius: 0px;
     background: #E5E5E5;
 }
@@ -56,7 +56,7 @@ text-align: left;
 .texto-derecha{
     float: right;
     height: auto;
-    width: 30%;
+    width: 40%;
     border-radius: 32px;
     background-color: white;
 }
@@ -119,6 +119,14 @@ text-align: left;
      display: inline-block;
      margin-left: 550px;
      
+ }
+ #btn-copiar{
+     margin-left:5% ;
+     width: 336px;
+     height: 67px;
+     border-radius: 24px;
+    padding: 24px;
+    display: none;
  }
 
 
