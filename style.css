@@ -29,7 +29,7 @@ body {
 .texto-izquierda{
     float: left;
     height: auto;
-    width: 60%;
+    width: 70%;
     border-radius: 0px;
     background: #E5E5E5;
 }
@@ -56,13 +56,13 @@ text-align: left;
 .texto-derecha{
     float: right;
     height: auto;
-    width: 40%;
+    width: 30%;
     border-radius: 32px;
     background-color: white;
 }
 
 .imagen{
-    margin-top: 70%;
+    margin-top: 65%;
     margin-left: 10px;
     width: 90%;
     height: auto;
